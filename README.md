@@ -1,4 +1,4 @@
-# COVID_ANALYSIS
+# COVID ANALYSIS BY SQL
 
 
 # ◻️ 📌 Objective:
